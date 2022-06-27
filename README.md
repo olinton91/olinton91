@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Oliver Linton!
-- 👀 I’m interested in contributing to the betterment of sthe world through science and technology.
-- 🌱 I’m currently learning C, C++, Java, Python, Software Engineering, Mathematics, Physics, and a just about everything related to the sciences. 
+- 👋 Hello! My name is Oliver Linton
+- 👀 I’m interested in contributing in meaningful ways to technology and its advancement
+- 🌱 I’m currently learning C, C++, Java, Python, Web Development, and a host of other technologies and subjects. 
 - 💞️ I’m looking to collaborate on anything fun, interesting, and intrinsically valuable to society.
 - 📫 How to reach me: oliveralinton@gmail.com, on LinkedIn @ www.linkedin.com/in/oliver-linton
 
